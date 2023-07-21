@@ -1,0 +1,9 @@
+.step {
+  color: #000;
+  text-decoration: none;
+}
+
+.step:hover {
+  color: #2cc7cf;
+  text-decoration: none;
+}

@@ -1,0 +1,39 @@
+.book {
+  width: 216px;
+  height: 519px;
+  margin-right: 12px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.book:hover {
+  box-shadow: 10px 10px #2cc7cf;
+}
+
+.book a {
+  text-decoration: none;
+}
+
+.book .book-desc {
+  background-color: #f8f2ec;
+}
+
+.book-desc div {
+  background-color: #f8f2ec;
+}
+.book-desc span {
+  background-color: #f8f2ec;
+}
+.book-desc a {
+  background-color: #f8f2ec;
+}
+
+.book-desc h3 {
+  background-color: #f8f2ec;
+  color: #0e5540;
+}
+
+.book-desc strong {
+  background-color: #f8f2ec;
+}

@@ -1,0 +1,14 @@
+.home {
+  padding: 20px;
+}
+
+.title {
+  margin: 150px 0 60px;
+  text-align: center;
+}
+
+.books {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
